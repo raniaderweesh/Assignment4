@@ -32,7 +32,7 @@ This interpretation will not be graded, but a Github shows the contributors to a
 
 **Question 1.1**: Fill in the __github username__ of the class mate to whose repository you have contributed. 
 
-[Fill in here]
+MikolajKompf
 
 ### Part 2: Analyzing various linear models
 
@@ -61,6 +61,7 @@ print(datasummary)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+The given data suggests that the mean is different between the two given variables. "growth" variable has a mean of 2.46 and "rgdp60" has a mean of 5283.32. In addition, the standard deviation also differs, from 1.28 to 2439.39.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
